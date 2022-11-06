@@ -14,9 +14,11 @@ Python tool to host Beef With Ngrok
       * <img src="https://raw.githubusercontent.com/DesTroTN/nBeef007/main/src/3.png" border="0"></a>
       * <img src="https://raw.githubusercontent.com/DesTroTN/nBeef007/main/src/1.png?raw=true">
       * <img src="https://raw.githubusercontent.com/DesTroTN/nBeef007/main/src/2.png?raw=true">
+      <br>
 ## Install
-`Note1: nBeef doesn't work with python2 +
- Note2: Dont forget to put ur ngrok token `
+`Note1: nBeef doesn't work with python2 +`
+`Note2: Dont forget to put ur ngrok token `
+
 ### [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 * open your terminal 
 * enter this command 
