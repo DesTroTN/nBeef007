@@ -15,6 +15,9 @@ Python tool to host Beef With Ngrok
       * <img src="https://raw.githubusercontent.com/DesTroTN/nBeef007/main/src/1.png?raw=true">
       * <img src="https://raw.githubusercontent.com/DesTroTN/nBeef007/main/src/2.png?raw=true">
       <br>
+# Botnet
+<img src="https://cdn.discordapp.com/attachments/581170733565214731/982465162801987635/beef.jpg">
+         <br>   
 ## Install
 `Note1: nBeef doesn't work with python2 +`<br>
 `Note2: Dont forget to put ur ngrok token `
